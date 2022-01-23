@@ -1,19 +1,10 @@
-# 06-random-gif-cat
+# **Desafio Random Gift Cat**
+Desafio 06, Modulo 04 VueJS
 
-## Project setup
-```
-npm install
-```
+[Ver Sitio(Vercel)](https://desafio06-random-gift-cat.vercel.app/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## **Capitulos**
+* VueCLI.
+* Parent y Child Component.
+* Props Component.
+* Fetch, asyn await
